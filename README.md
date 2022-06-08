@@ -3,7 +3,7 @@ Here provides the basic realizations of algorithms under delayed-hits case. The 
 
 
 # Usage
-1. Requirement: Ubuntu 18.04, "GCC 7+", "CMake 3.10+", "Boost C++ v1.70+"
+1. Requirement: Ubuntu 18.04, "GCC 7.0+", "CMake 3.10+", "Boost C++ v1.70+"
 
 2. The "./Simulator" contains codes and scripts to run simulations. More details can be found in "./Simulator/README.md"
 
